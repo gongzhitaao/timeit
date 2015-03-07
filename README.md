@@ -7,12 +7,15 @@ code.  Compatible with C++0x and C++11.
 ## API ##
 
 - **Timer**()
+
   Constructor.  Initialize the timer.
 
 - void **reset**()
+
   Reset the timer.
 
 - double **elapsed**()
+
   Elapsed time since the initilization of the timer or the last reset,
   in seconds.
 
