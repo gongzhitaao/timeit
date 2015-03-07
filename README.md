@@ -23,6 +23,7 @@ in seconds.
 
 ```c_cpp
 #include <iostream>
+#include "timeit.h"
 
 int main()
 {
