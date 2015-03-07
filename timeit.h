@@ -1,3 +1,8 @@
+#ifndef TIMEIT_H_
+#define TIMEIT_H_
+
+#pragma once
+
 #if __cplusplus <= 199711L
 
 // C++0x
@@ -43,3 +48,5 @@ class Timer
 };
 
 #endif
+
+#endif  // TIMEIT_H_
